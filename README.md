@@ -12,6 +12,10 @@ A desktop tool that batch-watermarks PDFs with names from a CSV file. Built for 
 - **Ready indicator** — button turns green when all inputs are selected
 - **Clean UI** — centered layout with the BUCM seal, green color scheme
 
+## Screenshot
+
+![BUCM ATLAS Screenshot](Sc.png)
+
 ## Requirements
 
 - Python 3.8+
