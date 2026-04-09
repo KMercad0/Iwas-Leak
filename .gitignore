@@ -1,0 +1,31 @@
+# Build artifacts
+build/
+dist/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Screenshots (dev only)
+Screenshot*.png
+
+# Old assets (replaced by atlas.jpg)
+O.png
+
+# Claude Code internals
+.claude/
+
+# Dev notes (not for public repo)
+lessons.md
+tutorial.md

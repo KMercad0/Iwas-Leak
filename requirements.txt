@@ -1,0 +1,4 @@
+pandas
+PyMuPDF
+Pillow
+# tkinter is included with standard Python installations
